@@ -51,11 +51,11 @@
 <h2 align="center">🌐 Professional Expertise 🌐</h2>
 <div align="center">
 <ul>
-  <li>⚙️ **Backend Development:** Expertise in building robust APIs using <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</li>
-  <li>🎨 **Frontend Development:** Creating dynamic and responsive UI using <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</li>
-  <li>💾 **Database Management:** Proficient with <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</li>
-  <li>☁️ **Cloud & DevOps:** Skilled in <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</li>
-  <li>🛠️ **Tools & Workflows:** Experienced in <strong>Git</strong>, <strong>JIRA</strong>, and agile methodologies.</li>
+  ⚙️ **Backend Development:** Expertise in building robust APIs using <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.
+  🎨 **Frontend Development:** Creating dynamic and responsive UI using <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.
+  💾 **Database Management:** Proficient with <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.
+  ☁️ **Cloud & DevOps:** Skilled in <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.
+  🛠️ **Tools & Workflows:** Experienced in <strong>Git</strong>, <strong>JIRA</strong>, and agile methodologies.
 </ul>
 </div>
 
