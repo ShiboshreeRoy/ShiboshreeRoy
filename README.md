@@ -4,28 +4,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SIBOSHREE+Roy!;" />
 </h1>
 
-<h3 align="center">🌟 A Passionate Software Engineer and Full-Stack Web Developer from Canada 🇨🇦 🌟</h3>
+<h3 align="center">🌟 A Passionate Software Engineer & Full-Stack Web Developer from Canada 🇨🇦 🌟</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 **I’m currently working on:** A Marketplace Platform that enhances e-commerce experiences.
+ 🔭 **Current Projects:** Developing a cutting-edge Marketplace Platform to enhance the e-commerce experience.
 
- 🌱 **I’m currently learning:** Docker | Supabase | AWS | Advanced System Design.
+ 🌱 **Currently Learning:** Docker | Supabase | AWS | Advanced System Design | Microservices Architecture.
 
- 💬 **Ask me about:** Full-Stack Development, [Node.js](https://nodejs.org), [React](https://react.dev), [Firebase](https://firebase.google.com/), or [create an issue here!](https://github.com/SIBOSHREE-Roy/SIBOSHREE-Roy/issues).
+ 💬 **Feel Free to Ask About:** Full-Stack Development, [Node.js](https://nodejs.org), [React](https://react.dev), [Firebase](https://firebase.google.com/), or [create an issue here](https://github.com/SIBOSHREE-Roy/SIBOSHREE-Roy/issues).
 
- ⚡ **Fun Fact:** Game of Thrones Night's Watch cloaks were made from IKEA rugs.
+ ⚡ **Fun Fact:** The iconic cloaks of the Game of Thrones Night's Watch were made from IKEA rugs.
 
- 🎯 **Goal:** To build scalable and innovative software solutions that positively impact people's lives.
+ 🎯 **Objective:** To build innovative, scalable, and secure software solutions that have a meaningful impact on people's lives.
 
+ 📈 **Achievements:** Open-source contributor with 1K+ stars and built applications with 10K+ active users.
 </div>
 
 ---
 
 <h2 align="center">💌 Let's Connect 💌</h2>
-<div align="center"> 
+<div align="center">
   <a href="mailto:siboshreeroy169@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
   </a>
@@ -39,11 +39,11 @@
 
 ---
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,mysql,flask,dotnet" alt="Web Development" />
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,figma,vscode,git,github,firebase,aws,docker,java,python,c" alt="Design & Tools" />
-    <img src="https://skillicons.dev/icons?i=ruby,rails,typescript,linux" alt="More Skills" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,typescript,linux" alt="Additional Skills" />
 </div>
 
 ---
@@ -51,11 +51,23 @@
 <h2 align="center">🌐 Professional Expertise 🌐</h2>
 <div align="center">
 <ul>
-  ⚙️ **Backend Development:** Expertise in building robust APIs using <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.
-  🎨 **Frontend Development:** Creating dynamic and responsive UI using <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.
-  💾 **Database Management:** Proficient with <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.
-  ☁️ **Cloud & DevOps:** Skilled in <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.
-  🛠️ **Tools & Workflows:** Experienced in <strong>Git</strong>, <strong>JIRA</strong>, and agile methodologies.
+  <li>⚙️ **Backend Development:** Expertise in designing scalable APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</li>
+  <li>🎨 **Frontend Development:** Building responsive, dynamic UIs with <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</li>
+  <li>💾 **Database Management:** Skilled in <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</li>
+  <li>☁️ **Cloud & DevOps:** Proficient in managing scalable cloud infrastructure using <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</li>
+  <li>🔧 **Development Tools & Workflows:** Experienced with <strong>Git</strong>, <strong>JIRA</strong>, <strong>Agile</strong> methodologies, and CI/CD pipelines.</li>
+  <li>📊 **System Design & Architecture:** Knowledge of designing microservices, event-driven architecture, and distributed systems.</li>
+</ul>
+</div>
+
+---
+
+<h2 align="center">📂 Featured Projects 📂</h2>
+<div align="center">
+<ul>
+  <li>💼 **[E-commerce Marketplace](https://github.com/SIBOSHREE-Roy/ecommerce-marketplace):** A comprehensive, scalable e-commerce platform offering features such as user authentication and payment integration.</li>
+  <li>🌟 **[Personal Portfolio](https://personalprotfolios.netlify.app/):** A modern and interactive portfolio showcasing my projects and achievements.</li>
+  <li>🔗 **[API Management System](https://github.com/SIBOSHREE-Roy/api-management):** A tool for managing RESTful APIs with advanced monitoring and analytics dashboards.</li>
 </ul>
 </div>
 
@@ -85,7 +97,7 @@
 
 <h2 align="center">☕ Support Me ☕</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/manu-roy/" target="_blank">
+  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FCC624?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee Badge" />
   </a>
 </div>
