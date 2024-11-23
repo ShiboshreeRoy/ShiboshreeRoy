@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SIBOSHREE-Roy.SIBOSHREE-Roy" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SIBOSHREE+Roy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SHIBOSHREE+Roy!;" />
 </h1>
 
 <h3 align="center">🌟 A Passionate Software Engineer & Full-Stack Web Developer from Canada 🇨🇦 🌟</h3>
