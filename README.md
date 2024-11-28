@@ -13,7 +13,7 @@
 
  🌱 **Currently Learning:** Docker | Supabase | AWS | Advanced System Design | Microservices Architecture.
 
- 💬 **Feel Free to Ask About:** Full-Stack Development, [Node.js](https://nodejs.org), [React](https://react.dev), [Firebase](https://firebase.google.com/), or [create an issue here](https://github.com/SIBOSHREE-Roy/SIBOSHREE-Roy/issues).
+ 💬 **Feel Free to Ask About:** Full-Stack Development, [Ruby on Rails](https://rubyonrails.org/), [Python](https://www.python.org/), [Firebase](https://firebase.google.com/), or [create an issue here](https://github.com/SIBOSHREE-Roy/SIBOSHREE-Roy/issues).
 
  ⚡ **Fun Fact:** The iconic cloaks of the Game of Thrones Night's Watch were made from IKEA rugs.
 
