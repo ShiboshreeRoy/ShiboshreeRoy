@@ -111,7 +111,7 @@
 
 <h2 align="center">☕ Support Me ☕</h2>
 <div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FCC624?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee Badge" />
   </a>
 </div>
