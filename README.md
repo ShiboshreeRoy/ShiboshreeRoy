@@ -50,29 +50,39 @@
 ---
 
 <h2 align="center">🌐 Professional Expertise 🌐</h2>
-<div align="center">
-<ul>
-  <li>⚙️ **Backend Development:** Expertise in designing scalable APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</li>
-  <li>🎨 **Frontend Development:** Building responsive, dynamic UIs with <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</li>
-  <li>💾 **Database Management:** Skilled in <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</li>
-  <li>☁️ **Cloud & DevOps:** Proficient in managing scalable cloud infrastructure using <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</li>
-  <li>🔧 **Development Tools & Workflows:** Experienced with <strong>Git</strong>, <strong>JIRA</strong>, <strong>Agile</strong> methodologies, and CI/CD pipelines.</li>
-  <li>📊 **System Design & Architecture:** Knowledge of designing microservices, event-driven architecture, and distributed systems.</li>
-</ul>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: left; max-width: 800px; margin: auto;">
+  <div>⚙️ <strong>Backend Development:</strong> Designing scalable APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</div>
+  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</div>
+  <div>💾 <strong>Database Management:</strong> Skilled in <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</div>
+  <div>☁️ <strong>Cloud & DevOps:</strong> Managing scalable cloud infrastructure with <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</div>
+  <div>🔧 <strong>Dev Tools & Workflows:</strong> Expertise with <strong>Git</strong>, <strong>JIRA</strong>, <strong>Agile</strong> methodologies, and CI/CD pipelines.</div>
+  <div>📊 <strong>System Design & Architecture:</strong> Experience with microservices, event-driven architecture, and distributed systems.</div>
 </div>
 
 ---
 
 <h2 align="center">📂 Featured Projects 📂</h2>
-<div align="center">
-<ul>
-  <li>💼 ** [E-commerce Marketplace](https://github.com/SIBOSHREE-Roy/ecommerce-marketplace):** A comprehensive, scalable e-commerce platform offering features such as user authentication and payment integration.</li>
-  <li>🌟 ** [Personal Portfolio](https://personalprotfolios.netlify.app/):** A modern and interactive portfolio showcasing my projects and achievements.</li>
-  <li>🔗 ** [API Management System](https://api-management-tool.netlify.app/):** A tool for managing RESTful APIs with advanced monitoring and analytics dashboards.</li>
-</ul>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <div style="width: 300px; padding: 15px; border-radius: 15px; background: #1a1a1a; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); text-align: center;">
+    💼 <strong><a href="https://github.com/shiboshree-roy/ecommerce-marketplace" style="color: #FFD700;">E-commerce Marketplace</a></strong>
+    <p>A comprehensive, scalable e-commerce platform offering user authentication and payment integration.</p>
+  </div>
+  <div style="width: 300px; padding: 15px; border-radius: 15px; background: #1a1a1a; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); text-align: center;">
+    🌟 <strong><a href="https://personalprotfolios.netlify.app/" style="color: #FFD700;">Personal Portfolio</a></strong>
+    <p>A modern and interactive portfolio showcasing my projects and achievements.</p>
+  </div>
+  <div style="width: 300px; padding: 15px; border-radius: 15px; background: #1a1a1a; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); text-align: center;">
+    🔗 <strong><a href="https://api-management-tool.netlify.app/" style="color: #FFD700;">API Management System</a></strong>
+    <p>A tool for managing RESTful APIs with advanced monitoring and analytics dashboards.</p>
+  </div>
 </div>
-## 🎯 Live Demo
 
+
+<h2 align="center">🎯 Live Demo</h2>
+<div align="center">
+  <p>🚀 Experience the latest live demos of my projects!</p>
+  <a href="https://personalprotfolios.netlify.app/" style="color: #00D8FF; font-size: 1.2em; font-weight: bold;">✨ Check it out now!</a>
+</div>
 
 ---
 
