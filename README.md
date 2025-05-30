@@ -43,7 +43,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,mysql,flask,dotnet,ruby,rails" alt="Web Development" />
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,figma,vscode,git,github,firebase,aws,docker,java,python,c,cpp,solidity" alt="Design & Tools" />
-    <img src="https://skillicons.dev/icons?i=go,rust,php,swift,kotlin,postgres,redis,linux,haml,sass" alt="Additional Skills" />
+    <img src="https://skillicons.dev/icons?i=go,rust,php,swift,kotlin,postgres,redis,linux,sass" alt="Additional Skills" />
 </div>
 
 
